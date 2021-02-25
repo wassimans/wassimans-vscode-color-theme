@@ -1,0 +1,21 @@
+{
+    "name": "wassimans",
+    "displayName": "Wassimans",
+    "description": "Wassimans original dark theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Wassimans",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Wassimans-color-theme.json"
+            }
+        ]
+    }
+}
